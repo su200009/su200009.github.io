@@ -22,9 +22,9 @@ short_bio: >
      Hi! I'm an incoming 26 fall PhD student in <a href="https://westlake-encode-lab.github.io/">ENCODE Lab</a> at Westlake University, under the supervision of <a href="https://www.huanwang.tech/">Prof. Huan Wang</a>. I obtained my M.Eng. in Communication Engineering from Beihang University in 2025 and B.Eng. in Communication Engineering at Northwestern Polytechnical University in 2022.
   </p>
 
-  <p>
-  Currently, my research centers on Efficient AI and Large Language Models, including model pruning and  post-training quantization.
-</p>
+#   <p>
+#   Currently, my research centers on Efficient AI and Large Language Models, including model pruning and  post-training quantization.
+# </p>
 
 
 
