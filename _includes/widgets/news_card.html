@@ -4,10 +4,10 @@
     <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
     <div class="px-3 pb-1">
         {% for item in news_list %}
-        <div class="media py-1 {% if forloop.first != true %}border-top border-gray{% endif %}">
+        <div class="media py-1">
             <div class="media-body">
                 <div class="my-1 d-flex">
-                    <div class="text-muted no-break mr-3"><i>{{ item.date | date: "%b %d, %Y" }}</i></div>
+                    <div class="font-weight-bold no-break mr-3">{{ item.date | date: "%b %d, %Y" }}</div>
                     <div>{{ item.title }}</div>
                 </div>
             </div>
