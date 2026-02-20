@@ -6,7 +6,7 @@ selected:       false
 #pub_pre:        ""
 pub_post:       'International Conference on Signal, Information and Data Processing (ICSIDP)'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2"
+pub_date:       "2024"
 
 
 cover:  assets/images/papers/2024icsidp.gif
