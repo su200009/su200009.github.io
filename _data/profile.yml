@@ -1,8 +1,7 @@
 primary_name: "Mingluo Su"
 navbar_name: "Homepage"
 
-position_name: "Incoming PhD Student"    # 第一行：职位名称
-university: "Westlake University"        # 第二行：学校名称
+position_name: "Incoming PhD Student @ Westlake University"    # 第一行：职位名称
 
 positions:
 - logo: /assets/images/badges/Texas_A&M_University_seal.svg  # Logo is optional
@@ -20,71 +19,11 @@ short_bio: >
 
   <p>
      Hi! I'm an incoming 26 fall PhD student in <a href="https://westlake-encode-lab.github.io/">ENCODE Lab</a> at Westlake University, under the supervision of <a href="https://www.huanwang.tech/">Prof. Huan Wang</a>. I obtained my M.Eng. in Communication Engineering from Beihang University in 2025 and B.Eng. in Communication Engineering at Northwestern Polytechnical University in 2022.
+
+    Currently, my research centers on Efficient AI and Large Language Models, including model pruning and post-training quantization.
   </p>
-
-#   <p>
-#   Currently, my research centers on Efficient AI and Large Language Models, including model pruning and  post-training quantization.
-# </p>
-
 
 
 portrait_url: /assets/images/photos/profile.jpg
 portrait_caption: >-
   Serve the cat, rule the world.
-
-education:
-- name: Texas A&M University
-  logo: /assets/images/badges/Texas_A&M_University_seal.svg
-  position: Ph.D. in Geographic Information Systems
-  date: Aug. 2025 - Present
-- name: University of Southern California
-  logo: /assets/images/badges/usc.png
-  position: M.S. in Spatial Data Science
-  date: Aug. 2023 - May. 2025
-- name: Nanjing Audit University
-  logo: /assets/images/badges/NAU.png
-  position: B.A. in Economics, Finance
-  date: Sep. 2018 - Jul. 2022
-
-experience:
-- name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /assets/images/badges/UST.svg.png
-  position: Research Assistant - AI4City Lab
-  date: Aug. 2024 - Aug.2025
-
-- name: Harvard University
-  logo: /assets/images/badges/Harvard.png
-  position: Research Assistant - Spatial Data Lab
-  date: May. 2024 - Sep. 2024
-
-- name: City of Hope
-  logo: /assets/images/badges/COH.png
-  position: Data Science Intern
-  date: Feb. 2024 - May. 2024
-
-- name: The Hong Kong Polytechnic University
-  logo: /assets/images/badges/PolyU.svg_.png
-  position: Research Assistant
-  date: Sep. 2023 - May. 2024
-
-- name: NetEase Youdao
-  logo: /assets/images/badges/youdaojfif.jfif
-  position: Data Analyst Intern
-  date: Jan. 2023 - Apr. 2023
-
-
-awards:
-- name: TAMU Dean's Doctoral Fellowship 
-  date: Aug. 2025
-- name: 2025 AAG GISS Student Paper Competition Honorable Mention
-  date: Mar. 2025
-- name: 2025 EIP Student of the Year Award
-  date: Mar. 2025
-- name: Most Suitably Applied Analysis Methodology Award
-  date: Feb. 2025
-- name: Bronze medal in Kaggle's Child Mind Institute - Detect Sleep States
-  date: Jan. 2024
-- name: Outstanding Graduate Award
-  date: Jun. 2022
-- name: Provincial Champion of The World Mandarin Debating Championship
-  date: Sep. 2020
