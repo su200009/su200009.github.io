@@ -1,14 +1,18 @@
 {% assign news_list = site.news | sort: "date" | reverse | slice: 0, include.limit -%}
 
 <div class="my-3 bg-white shadow-sm rounded-sm">
-    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
+    <h6 class="p-3 mb-0 border-bottom border-gray" style="font-size: 1.1rem; font-weight: 500;">
+        <i class="fas fa-rss"></i> News
+    </h6>
     <div class="px-3 pb-1">
         {% for item in news_list %}
-        <div class="media py-1">
+        <div class="media py-2">
             <div class="media-body">
-                <div class="my-1 d-flex">
-                    <div class="font-weight-bold no-break mr-3">{{ item.date | date: "%b %d, %Y" }}</div>
-                    <div>{{ item.title }}</div>
+                <div class="my-1 d-flex" style="font-size: 1.05rem; line-height: 1.6;">
+                    <div class="font-weight-bold no-break mr-3" style="color: #6c757d;">
+                        {{ item.date | date: "%b %d, %Y" }}
+                    </div>
+                    <div style="color: #212529;">{{ item.title }}</div>
                 </div>
             </div>
         </div>
