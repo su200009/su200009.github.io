@@ -1,3 +1,4 @@
+{% assign news_list = site.news | sort: "date" | reverse | slice: 0, include.limit -%}
 
 <div class="my-3 bg-white shadow-sm rounded-sm">
     <h6 class="p-3 mb-0 border-bottom border-gray" style="font-size: 1.1rem; font-weight: 500;">
